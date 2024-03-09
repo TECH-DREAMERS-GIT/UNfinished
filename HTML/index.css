@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 200px;
+    background-color: beige;
+    border: 1px solid black;
+    box-shadow: 3px 2px 1px gray;
+    border-radius: 10px;
+    padding: 10px;
+ 
+   
+}
+.container{
+   
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  
+
+}
+
+
+
